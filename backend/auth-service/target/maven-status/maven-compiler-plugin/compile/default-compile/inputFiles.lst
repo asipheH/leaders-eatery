@@ -1,0 +1,11 @@
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/AuthController.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/AuthService.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/AuthServiceApplication.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/JwtService.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/LoginRequest.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/LoginResponse.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/RegisterRequest.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/RegisterResponse.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/SecurityConfig.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/User.java
+/workspaces/leaders-eatery/backend/auth-service/src/main/java/com/leaderseatery/auth/UserRepository.java

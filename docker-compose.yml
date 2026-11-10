@@ -1,0 +1,25 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: leaders-eatery-mysql
+    restart: unless-stopped
+
+    environment:
+      MYSQL_ROOT_PASSWORD: LeadersRoot123!
+
+    ports:
+      - "3306:3306"
+
+    volumes:
+      - leaders_eatery_mysql_data:/var/lib/mysql
+      - ./database/schema.sql:/docker-entrypoint-initdb.d/01-schema.sql:ro
+
+
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "localhost", "-uroot", "-pLeadersRoot123!"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+volumes:
+  leaders_eatery_mysql_data:

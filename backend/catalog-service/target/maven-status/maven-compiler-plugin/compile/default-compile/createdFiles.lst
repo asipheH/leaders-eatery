@@ -1,0 +1,12 @@
+com/leaderseatery/catalog/RestaurantRepository.class
+com/leaderseatery/catalog/CatalogServiceApplication.class
+com/leaderseatery/catalog/Dish.class
+com/leaderseatery/catalog/dto/RestaurantResponse.class
+com/leaderseatery/catalog/CatalogQueryService.class
+com/leaderseatery/catalog/DishRepository.class
+com/leaderseatery/catalog/dto/DishResponse.class
+com/leaderseatery/catalog/CatalogController.class
+com/leaderseatery/catalog/Restaurant.class
+com/leaderseatery/catalog/CategoryRepository.class
+com/leaderseatery/catalog/Category.class
+com/leaderseatery/catalog/dto/CategoryResponse.class
