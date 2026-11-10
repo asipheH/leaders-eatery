@@ -1,0 +1,11 @@
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/OrderServiceApplication.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/Order.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/OrderItem.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/OrderItemRepository.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/OrderManagementService.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/OrderRepository.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/OrderStatus.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/RestClientConfig.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/dto/CatalogDishResponse.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/dto/CreateOrderRequest.java
+/workspaces/leaders-eatery/backend/order-service/src/main/java/com/leaderseatery/orders/dto/OrderItemRequest.java

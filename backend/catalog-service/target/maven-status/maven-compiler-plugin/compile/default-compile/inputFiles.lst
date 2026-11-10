@@ -1,0 +1,12 @@
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/CatalogController.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/CatalogQueryService.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/CatalogServiceApplication.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/Category.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/CategoryRepository.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/Dish.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/DishRepository.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/Restaurant.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/RestaurantRepository.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/dto/CategoryResponse.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/dto/DishResponse.java
+/workspaces/leaders-eatery/backend/catalog-service/src/main/java/com/leaderseatery/catalog/dto/RestaurantResponse.java
